@@ -21,8 +21,9 @@
             </p>
         </li>
       </ul>
+      <!-- Contacto: -->
         <p align="right">
-          <a href="https://linkedin.com/in/tadeo goday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeo goday" height="20" width="30" /></a>
+          <a href="https://www.linkedin.com/in/tadeo-goday-44840a225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tadeo goday" height="20" width="30" /></a>
           <a href="https://instagram.com/tadegoday_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tadegoday_" height="20" width="30" /></a>
         </p>
     </th>
