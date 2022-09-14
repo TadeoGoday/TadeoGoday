@@ -1,7 +1,7 @@
 <table border="0px" align="left" style="border:0px">
   <tr>
     <th >
-      <img width="200" height="200" src="https://avatars.githubusercontent.com/u/67663627?v=4">
+      <img width="200" height="200" src="https://media-exp1.licdn.com/dms/image/C4D03AQEuJiqCzmqiWg/profile-displayphoto-shrink_800_800/0/1642664856561?e=1668643200&v=beta&t=LTtpMoJttVapWHTS7f5zpdxdPMYkC9nvSRdgSur0ZAs"> <!-- Foto de github: https://avatars.githubusercontent.com/u/67663627?v=4 -->
     </th>
     <th width="600px" align="left">
       <h2 align="left">Tadeo Goday</h2>
