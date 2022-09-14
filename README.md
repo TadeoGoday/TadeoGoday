@@ -27,7 +27,7 @@
           <ul>
             <li>Titulo Programador JAVA/.NET - UDE</li>
             <li>Curso Introducción al Hacking Ético - Mastermind</li>
-            <li>Certifiado Junior Penetrarion Tester (eJPT) - eLearnSecurity</li>
+            <li>Certificado Junior Penetrarion Tester (eJPT) - eLearnSecurity</li>
           </ul>
         </li>
       </ul>
