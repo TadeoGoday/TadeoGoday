@@ -6,7 +6,7 @@
     <th width="600px" align="left">
       <h2 align="left">Tadeo Goday</h2>
       <ul align="left">
-        <li><p>Estudiante de Ingeniería de Sustenas, 19 años (31/1/2003).</p></li>
+        <li><p>Estudiante de Ingeniería de Sistemas, 19 años (31/1/2003).</p></li>
         <li>
           <p align="left">Habilidades:
               <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
